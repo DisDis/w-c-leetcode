@@ -1,0 +1,15 @@
+name: leetcode
+description: leetcode demo
+version: 1.0.0
+
+
+environment:
+  sdk: ">=2.12.0 <3.0.0"
+  flutter: ">=3.0.0"
+
+dependencies:
+
+  collection: ^1.17.0
+  
+
+#dev_dependencies:
